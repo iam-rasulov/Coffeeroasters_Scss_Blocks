@@ -1,0 +1,43 @@
+.commitment{
+  display: flex;
+  justify-content: space-between;
+}
+
+.commitment-inner{
+  width: 1110px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.commitment-left{
+  width: 485px;
+  height: 606px;
+}
+
+.commitment-right{
+  width: 560px;
+}
+
+.commitment-right__title{
+  margin-top: 96px;
+  font-family: var(--main-font-family-Fraunces);
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+  color: #333D4B;
+}
+
+.commitment-right__text{
+  width: 540px;
+  height: 260px;
+  font-family: var(--main-font-family-Barlow);
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #333D4B;
+  opacity: 0.8;
+}
