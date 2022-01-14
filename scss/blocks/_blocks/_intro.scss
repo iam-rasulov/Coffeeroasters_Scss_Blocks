@@ -12,7 +12,7 @@
 
 .intro__title{
   margin-top: 0;
-  font-family: "Fraunces", serif;
+  font-family: $--main-font-family-Fraunces;
   font-style: normal;
   font-weight: 900;
   font-size: 40px;
@@ -22,7 +22,7 @@
 }
 
 .intro__text{
-  font-family: "Barlow", sans-serif;
+  font-family: $--main-font-family-Barlow;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;

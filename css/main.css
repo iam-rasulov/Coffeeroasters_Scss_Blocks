@@ -381,7 +381,6 @@ img {
 }
 
 body {
-  font-family: "Barlow", "Arial" sans-serif;
   margin: 0;
 }
 
@@ -445,7 +444,7 @@ body {
 .navbar__link {
   display: block;
   text-decoration: none;
-  font-family: "Barlow", sans-serif;
+  font-family: "Barlow", "Arial" sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 12px;
@@ -471,7 +470,7 @@ body {
 
 .intro__title {
   margin-top: 0;
-  font-family: "Fraunces", serif;
+  font-family: "Fraunces" "serif";
   font-style: normal;
   font-weight: 900;
   font-size: 40px;
@@ -481,7 +480,7 @@ body {
 }
 
 .intro__text {
-  font-family: "Barlow", sans-serif;
+  font-family: "Barlow", "Arial" sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -525,7 +524,7 @@ body {
 
 .commitment-right__title {
   margin-top: 96px;
-  font-family: var(--main-font-family-Fraunces);
+  font-family: "Fraunces" "serif";
   font-weight: 900;
   font-size: 40px;
   line-height: 48px;
@@ -535,7 +534,7 @@ body {
 .commitment-right__text {
   width: 540px;
   height: 260px;
-  font-family: var(--main-font-family-Barlow);
+  font-family: "Barlow", "Arial" sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -566,7 +565,7 @@ body {
 }
 
 .inner-left__title {
-  font-family: var(--main-font-family-Fraunces);
+  font-family: "Fraunces" "serif";
   font-weight: 900;
   font-size: 40px;
   line-height: 48px;
@@ -575,7 +574,7 @@ body {
 
 .inner-left__text {
   width: 540px;
-  font-family: var(--main-font-family-Barlow);
+  font-family: "Barlow", "Arial" sans-serif;
   font-size: 16px;
   line-height: 26px;
   color: #FEFCF7;
@@ -625,19 +624,19 @@ body {
 .headquarters-inner__left__title {
   margin-top: 46px;
   padding: 0;
-  font-family: var(--main-font-family-Fraunces);
+  font-family: #0E8784;
   font-weight: 900;
   font-size: 32px;
   line-height: 36px;
-  color: var(--main-color-dark-gray-blue);
+  color: #333D4B;
 }
 
 .headquarters-inner__left__address {
   margin-bottom: 168px;
-  font-family: var(--main-font-family-Barlow);
+  font-family: "Barlow", "Arial" sans-serif;
   font-size: 16px;
   line-height: 26px;
-  color: var(--main-color-dark-gray-blue);
+  color: #333D4B;
 }
 
 .headquarters-inner__mid {
@@ -661,19 +660,19 @@ body {
 .headquarters-inner__mid__title {
   margin-top: 46px;
   padding: 0;
-  font-family: var(--main-font-family-Fraunces);
+  font-family: "Fraunces" "serif";
   font-weight: 900;
   font-size: 32px;
   line-height: 36px;
-  color: var(--main-color-dark-gray-blue);
+  color: #333D4B;
 }
 
 .headquarters-inner__mid__address {
   margin-bottom: 168px;
-  font-family: var(--main-font-family-Barlow);
+  font-family: "Barlow", "Arial" sans-serif;
   font-size: 16px;
   line-height: 26px;
-  color: var(--main-color-dark-gray-blue);
+  color: #333D4B;
 }
 
 .headquarters-inner__right {
@@ -697,19 +696,19 @@ body {
 .headquarters-inner__right__title {
   margin-top: 46px;
   padding: 0;
-  font-family: var(--main-font-family-Fraunces);
+  font-family: "Fraunces" "serif";
   font-weight: 900;
   font-size: 32px;
   line-height: 36px;
-  color: var(--main-color-dark-gray-blue);
+  color: #333D4B;
 }
 
 .headquarters-inner__right__address {
   margin-bottom: 168px;
-  font-family: var(--main-font-family-Barlow);
+  font-family: "Barlow", "Arial" sans-serif;
   font-size: 16px;
   line-height: 26px;
-  color: var(--main-color-dark-gray-blue);
+  color: #333D4B;
 }
 
 .footer__box {

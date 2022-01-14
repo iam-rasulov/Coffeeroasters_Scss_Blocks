@@ -32,19 +32,19 @@
  .headquarters-inner__left__title{
   margin-top: 46px;
   padding: 0;
-  font-family: var(--main-font-family-Fraunces);
+  font-family: $--main-color-dark-cyan;
   font-weight: 900;
   font-size: 32px;
   line-height: 36px;
-  color: var(--main-color-dark-gray-blue);
+  color: $--main-color-dark-gray-blue;
  }
 
  .headquarters-inner__left__address{
    margin-bottom: 168px;
-  font-family: var(--main-font-family-Barlow);
+  font-family: $--main-font-family-Barlow;
   font-size: 16px;
   line-height: 26px;
-  color: var(--main-color-dark-gray-blue);
+  color: $--main-color-dark-gray-blue;
   
  }
 
@@ -64,20 +64,20 @@
  .headquarters-inner__mid__title{
    margin-top: 46px;
    padding: 0;
-  font-family: var(--main-font-family-Fraunces);
+  font-family: $--main-font-family-Fraunces;
   font-weight: 900;
   font-size: 32px;
   line-height: 36px;
-  color: var(--main-color-dark-gray-blue);
+  color: $--main-color-dark-gray-blue;
 
  }
 
  .headquarters-inner__mid__address{
   margin-bottom: 168px;
-  font-family: var(--main-font-family-Barlow);
+  font-family: $--main-font-family-Barlow;
   font-size: 16px;
   line-height: 26px; 
-  color: var(--main-color-dark-gray-blue);
+  color: $--main-color-dark-gray-blue;
   
  }
 
@@ -97,19 +97,19 @@
  .headquarters-inner__right__title{
   margin-top: 46px;
   padding: 0;
-  font-family: var(--main-font-family-Fraunces);
+  font-family: $--main-font-family-Fraunces;
   font-weight: 900;
   font-size: 32px;
   line-height: 36px;
-  color: var(--main-color-dark-gray-blue);
+  color: $--main-color-dark-gray-blue;
   
  }
 
  .headquarters-inner__right__address{
   margin-bottom: 168px;
-  font-family: var(--main-font-family-Barlow);
+  font-family: $--main-font-family-Barlow;
   font-size: 16px;
   line-height: 26px;
-  color: var(--main-color-dark-gray-blue);
+  color: $--main-color-dark-gray-blue;
   
  }

@@ -23,21 +23,21 @@
 
 .commitment-right__title{
   margin-top: 96px;
-  font-family: var(--main-font-family-Fraunces);
+  font-family: $--main-font-family-Fraunces;
   font-weight: 900;
   font-size: 40px;
   line-height: 48px;
-  color: #333D4B;
+  color: $--main-color-dark-gray-blue;
 }
 
 .commitment-right__text{
   width: 540px;
   height: 260px;
-  font-family: var(--main-font-family-Barlow);
+  font-family: $--main-font-family-Barlow;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 26px;
-  color: #333D4B;
+  color: $--main-color-dark-gray-blue;
   opacity: 0.8;
 }

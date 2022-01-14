@@ -33,7 +33,7 @@
 .navbar__link{
   display: block;
   text-decoration: none;
-  font-family: "Barlow", sans-serif;
+  font-family: $--main-font-family-Barlow;
   font-style: normal;
   font-weight: bold;
   font-size: 12px;
@@ -42,5 +42,5 @@
 }
 
 .navbar__link:hover{
-  color: #333D4B;
+  color: $--main-color-dark-gray-blue;
 }
