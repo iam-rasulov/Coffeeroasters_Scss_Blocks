@@ -44,3 +44,21 @@
 .navbar__link:hover{
   color: $--main-color-dark-gray-blue;
 }
+
+.navbar__btn{
+  display: none;
+  border: none;
+}
+
+
+@media only screen and (max-width: 650px) {
+  
+  .navbar{
+    display: none;
+  }
+
+  .navbar__btn{
+    display: block;
+  }
+
+}

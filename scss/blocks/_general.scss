@@ -8,12 +8,13 @@ img {
 }
 
 body {
-  font-family: "Barlow", "Arial" sans-serif; 
+  font-family: "Barlow"; 
   margin: 0;
 }
 
 .container {
-  width: 1320px;
+  width: 100%;
+  max-width: 1320px;
   padding: 0 20px;
   margin: 0 auto;
 }
@@ -27,4 +28,39 @@ body {
 	height: 1px !important; 
 	width: 1px !important; 
 	overflow: hidden;
+}
+
+
+
+
+@media only screen and (max-width: 1024px){
+  .container{
+    max-width: 984px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+}
+
+@media only screen and (max-width: 768px){
+  .container{
+    max-width: 728px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+}
+
+@media only screen and (max-width: 425px){
+  .container{
+    max-width: 365px;
+    margin: 0 auto;
+    padding: 0 30px;
+  }
+}
+
+@media only screen and (max-width: 375px){
+  .container{
+    max-width: 315px;
+    margin: 0 auto;
+    padding: 0 30px;
+  }
 }
